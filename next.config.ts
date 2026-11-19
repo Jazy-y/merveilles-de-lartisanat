@@ -1,4 +1,5 @@
 import type { NextConfig } from 'next'
+import { apiSecurityHeaders, pageSecurityHeaders } from './src/lib/security-policy'
 
 const nextConfig: NextConfig = {
   images: {
@@ -16,6 +17,13 @@ const nextConfig: NextConfig = {
       // Admin uploads stored in Vercel Blob
       { protocol: 'https', hostname: '*.public.blob.vercel-storage.com' },
     ],
+  },
+  async headers() {
+    return [
+      // every page (the middleware only runs on admin routes)
+      { source: '/((?!api/).*)', headers: pageSecurityHeaders() },
+      { source: '/api/:path*', headers: apiSecurityHeaders() },
+    ]
   },
   compiler: {
     // Strip console.* in production builds, keep errors for diagnostics
