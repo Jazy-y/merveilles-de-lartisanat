@@ -1,0 +1,20 @@
+version: '3.9'
+services:
+  db:
+    image: postgres:16
+    container_name: arti_postgres
+    environment:
+      POSTGRES_DB: arti_db
+      POSTGRES_USER: arti
+      POSTGRES_PASSWORD: arti
+    ports:
+      - '5432:5432'
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U arti -d arti_db']
+      interval: 5s
+      timeout: 5s
+      retries: 10
+volumes:
+  pgdata:

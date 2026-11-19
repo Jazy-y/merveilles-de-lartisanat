@@ -1,0 +1,174 @@
+/* Custom styles for address form components - Black & white theme */
+
+/* React Select Custom Styles */
+.react-select-container .react-select__control {
+  min-height: 40px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  box-shadow: none;
+  transition: all 0.2s ease;
+}
+
+.react-select-container .react-select__control:hover {
+  border-color: var(--foreground);
+}
+
+.react-select-container .react-select__control--is-focused {
+  border-color: var(--ring);
+  box-shadow: 0 0 0 1px var(--ring);
+}
+
+.react-select-container .react-select__placeholder {
+  color: var(--muted-foreground);
+  font-size: 14px;
+}
+
+.react-select-container .react-select__single-value {
+  color: var(--foreground);
+  font-size: 14px;
+}
+
+.react-select-container .react-select__input-container {
+  color: var(--foreground);
+  font-size: 14px;
+}
+
+.react-select-container .react-select__menu {
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  margin-top: 4px;
+}
+
+.react-select-container .react-select__option {
+  padding: 8px 12px;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.react-select-container .react-select__option--is-focused {
+  background-color: var(--muted);
+  color: var(--foreground);
+}
+
+.react-select-container .react-select__option--is-selected {
+  background-color: var(--primary);
+  color: var(--primary-foreground);
+}
+
+.react-select-container .react-select__indicator-separator {
+  background-color: var(--border);
+}
+
+.react-select-container .react-select__dropdown-indicator {
+  color: var(--foreground);
+}
+
+.react-select-container .react-select__dropdown-indicator:hover {
+  color: var(--muted-foreground);
+}
+
+/* Phone Input Custom Styles */
+.phone-input-container .react-tel-input {
+  width: 100%;
+}
+
+.phone-input-container .react-tel-input .form-control {
+  width: 100% !important;
+  height: 40px !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 8px !important;
+  font-size: 14px !important;
+  padding-left: 48px !important;
+  transition: all 0.2s ease !important;
+}
+
+.phone-input-container .react-tel-input .form-control:focus {
+  border-color: var(--ring) !important;
+  box-shadow: 0 0 0 1px var(--ring) !important;
+}
+
+.phone-input-container .react-tel-input .flag-dropdown {
+  border: 1px solid var(--border) !important;
+  border-right: none !important;
+  border-radius: 8px 0 0 8px !important;
+  background-color: var(--muted) !important;
+}
+
+.phone-input-container .react-tel-input .flag-dropdown.open {
+  background-color: var(--muted) !important;
+}
+
+.phone-input-container .react-tel-input .flag-dropdown .selected-flag {
+  background-color: transparent !important;
+  border-radius: 8px 0 0 8px !important;
+}
+
+.phone-input-container .react-tel-input .flag-dropdown .selected-flag:hover {
+  background-color: var(--secondary) !important;
+}
+
+.phone-input-container .react-tel-input .country-list {
+  border: 1px solid var(--border) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1) !important;
+  margin-top: 4px !important;
+}
+
+.phone-input-container .react-tel-input .country-list .country {
+  padding: 8px 12px !important;
+  font-size: 14px !important;
+  transition: all 0.2s ease !important;
+}
+
+.phone-input-container .react-tel-input .country-list .country:hover {
+  background-color: var(--muted) !important;
+}
+
+.phone-input-container .react-tel-input .country-list .country.highlight {
+  background-color: var(--primary) !important;
+  color: var(--primary-foreground) !important;
+}
+
+/* Error states */
+.react-select-container .react-select__control--error {
+  border-color: var(--destructive) !important;
+}
+
+.react-select-container .react-select__control--error:hover {
+  border-color: var(--destructive) !important;
+}
+
+.react-select-container .react-select__control--error.react-select__control--is-focused {
+  border-color: var(--destructive) !important;
+  box-shadow: 0 0 0 1px var(--destructive) !important;
+}
+
+.phone-input-container .react-tel-input .form-control.error {
+  border-color: var(--destructive) !important;
+}
+
+.phone-input-container .react-tel-input .form-control.error:focus {
+  border-color: var(--destructive) !important;
+  box-shadow: 0 0 0 1px var(--destructive) !important;
+}
+
+.phone-input-container .react-tel-input .flag-dropdown.error {
+  border-color: var(--destructive) !important;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 640px) {
+  .react-select-container .react-select__control {
+    min-height: 44px;
+  }
+  
+  .phone-input-container .react-tel-input .form-control {
+    height: 44px !important;
+    font-size: 16px !important;
+  }
+  
+  .phone-input-container .react-tel-input .flag-dropdown {
+    height: 44px !important;
+  }
+}

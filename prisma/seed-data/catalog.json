@@ -1,0 +1,255 @@
+{
+  "source": "Public catalogue of Merveilles de l'Artisanat de la Tunisie (products, workshops, trainings). Contains no user, order or personal data.",
+  "products": [
+    {
+      "id": "cmgduvxlk0007tzr0wpk560da",
+      "name": "Manchette Argent \"Héritage Amazigh\"",
+      "description": "Un bijou de caractère qui puise sa force dans l'héritage berbère (Amazigh). Ce large bracelet manchette, entièrement ciselé à la main en argent massif, arbore des motifs ancestraux symbolisant la force et la protection. Sa finition oxydée lui confère un relief et une profondeur uniques. Une pièce maîtresse, créée par nos artisans tunisiens, pour un style authentique et affirmé.",
+      "price": 150,
+      "stock": 200,
+      "category": "Bracelets",
+      "images": [
+        "/uploads/1759678017209-bgnl14luzmv.png",
+        "/uploads/1759678023833-t88e5wr063p.jpeg"
+      ],
+      "videos": [],
+      "featured": true,
+      "isActive": true
+    },
+    {
+      "id": "cmgdusuwc0005tzr0amwc0gi0",
+      "name": "Bague Oeil de Taureau",
+      "description": "Sublimez votre main avec cette bague unique, façonnée à la main en Tunisie. Montée sur un anneau en argent pur, la pierre naturelle d'Oeil de Taureau captive par ses reflets chauds et profonds. Un bijou de caractère, alliant simplicité et élégance, parfait pour toutes les occasions.\n\n",
+      "price": 40,
+      "stock": 100,
+      "category": "Bagues",
+      "images": [
+        "/uploads/1759677899441-48awu99amh9.png",
+        "/uploads/1759677906012-tewwmy57vk.png",
+        "/uploads/1759677910321-aw4t9t371jg.png",
+        "/uploads/1759677919559-ugt8w83vu0n.jpeg"
+      ],
+      "videos": [],
+      "featured": true,
+      "isActive": true
+    },
+    {
+      "id": "cmgduy5w30008tzr0pe7mve0e",
+      "name": "Bracelet Manchette avec Prénom en Argent Martelé",
+      "description": "n bijou unique, qui vous ressemble. Cette manchette moderne en argent martelé est personnalisée avec le prénom de votre choix, découpé en une élégante calligraphie arabe. La technique ajourée donne au bijou une légèreté et une finesse remarquables. Un cadeau personnel et inoubliable, façonné à la main par nos artisans en Tunisie. *N'oubliez pas d'indiquer le prénom souhaité lors de votre commande.*",
+      "price": 25,
+      "stock": 100,
+      "category": "Bracelets",
+      "images": [
+        "/uploads/1760633457580-f0b1bnxnkhv.jpg",
+        "/uploads/1759678116070-vncggu8jwl.jpeg"
+      ],
+      "videos": [],
+      "featured": true,
+      "isActive": true
+    },
+    {
+      "id": "cmgduzvr80009tzr0rji8o1vi",
+      "name": "Bague \"Initiales\" Personnalisable en Argent",
+      "description": "Affichez vos initiales avec style grâce à cette bague personnalisable, entièrement faite à la main en argent. Choisissez entre deux designs : un anneau large et audacieux pour un look affirmé, ou une version fine et délicate pour une élégance discrète. Le cadeau parfait et personnel, fabriqué avec soin par nos artisans tunisiens. *Indiquez vos initiales (2 ou 3 lettres) et choisissez votre style (Large ou Fin) lors de la commande.*",
+      "price": 110,
+      "stock": 125,
+      "category": "Bagues",
+      "images": [
+        "/uploads/1761400387177-s1wtv5vipwe.jpg",
+        "/uploads/1761400398514-jr2prvxhfv.jpg"
+      ],
+      "videos": [],
+      "featured": false,
+      "isActive": true
+    },
+    {
+      "id": "cmgduugd20006tzr0oivy4k5g",
+      "name": "Boucles d'oreilles asymétriques \"Hurriya\"",
+      "description": "Affirmez votre individualité avec cette paire de boucles d'oreilles dépareillées au message fort. D'un côté, une étoile céleste en laiton martelé ; de l'autre, le mot \"حرية\" (Liberté) dessiné en une calligraphie arabe fluide. Une création artisanale tunisienne audacieuse, moderne et pleine de sens.",
+      "price": 35,
+      "stock": 150,
+      "category": "Boucles d'oreilles",
+      "images": [
+        "/uploads/1759677989775-49mutb8gq9p.png",
+        "/uploads/1759677994091-802sf0rtp6h.jpeg"
+      ],
+      "videos": [],
+      "featured": true,
+      "isActive": false
+    },
+    {
+      "id": "cmgdv1dt4000atzr0vzpfaoz1",
+      "name": "Collier \"Arbre de Vie\" en Argent 925",
+      "description": "Un collier élégant et symbolique en Argent 925, mettant en scène le motif intemporel de l'Arbre de Vie. Le pendentif est finement découpé à la main, créant un design ajouré délicat qui symbolise la force, la croissance et la connexion. Une pièce maîtresse de l'artisanat tunisien, idéale à porter au quotidien ou à offrir comme cadeau porteur de sens.\n\n",
+      "price": 125,
+      "stock": 120,
+      "category": "Colliers",
+      "images": [
+        "/uploads/1759678274802-gip6me9ju4m.png",
+        "/uploads/1759678280721-qwbzhycxh8n.jpeg"
+      ],
+      "videos": [],
+      "featured": true,
+      "isActive": true
+    },
+    {
+      "id": "cmgdv2ms4000btzr09t0ayo5g",
+      "name": "Collier Prénom Personnalisable en Calligraphie Arabe - Plaqué Or",
+      "description": "Un collier délicat et personnel en plaqué or, mettant en valeur le prénom de votre choix en élégante calligraphie arabe. Chaque nom est finement découpé à la main pour un design fluide et unique qui se porte près du cœur. C'est le cadeau sur mesure par excellence, une création artisanale tunisienne pour célébrer ceux que vous aimez.",
+      "price": 125,
+      "stock": 100,
+      "category": "Colliers",
+      "images": [
+        "/uploads/1759678340779-en9fx3mg8zn.png",
+        "/uploads/1759678344237-u6alvf8jyd8.jpeg"
+      ],
+      "videos": [],
+      "featured": true,
+      "isActive": true
+    },
+    {
+      "id": "cmgdv425p000ctzr007mbhpo5",
+      "name": "Boucles d'oreilles \"Khamsa\" Design en Argent 925",
+      "description": "Des boucles d'oreilles design en argent qui réinterprètent le symbole protecteur de la Khamsa avec une touche de modernité. Le contour épuré de la main de Fatma abrite en son cœur une lettre de calligraphie arabe (la lettre Sīn 'س'), créant un bijou à la fois symbolique et artistique. Une création artisanale tunisienne, légère et graphique, parfaite pour un style affirmé.",
+      "price": 125,
+      "stock": 100,
+      "category": "Boucles d'oreilles",
+      "images": [
+        "/uploads/1759678406434-uquvfuo9xzc.png",
+        "/uploads/1759678411182-msxph1pa3qc.jpeg"
+      ],
+      "videos": [],
+      "featured": true,
+      "isActive": true
+    },
+    {
+      "id": "cmgdv5feq000dtzr0ji4msde9",
+      "name": "Manchette \"Eid\" en Laiton Martelé Plaqué Or",
+      "description": "Une manchette spectaculaire en laiton martelé et plaqué or, conçue pour célébrer les moments de joie. Le mot \"Eid\" (Fête/Célébration) est découpé en une calligraphie arabe audacieuse, créant un design ajouré unique. La finition martelée capte la lumière magnifiquement, faisant de ce bijou la pièce maîtresse parfaite pour vos tenues de fête. Une création artisanale tunisienne qui allie luxe et tradition.",
+      "price": 125,
+      "stock": 113,
+      "category": "Bracelets",
+      "images": [
+        "/uploads/1759678462889-hp1zsjzlfvf.png",
+        "/uploads/1759678469860-0ohcmo7c79i.jpeg"
+      ],
+      "videos": [],
+      "featured": true,
+      "isActive": true
+    },
+    {
+      "id": "cmgdv6q5g000etzr0qk4x3r7e",
+      "name": "Bracelet Jonc \"Hubb\" (Amour) - Dentelle de Calligraphie Plaqué Or",
+      "description": "Un bracelet jonc raffiné qui transforme le mot arabe \"Hubb\" (Amour) en une délicate dentelle de métal. Réalisé en plaqué or, ce bijou ajouré répète le mot \"Amour\" en une calligraphie élégante pour former un motif continu et poétique. Léger et ajustable, il habille le poignet avec grâce et sophistication. Une création artisanale tunisienne, véritable ode à l'amour.",
+      "price": 125,
+      "stock": 200,
+      "category": "Bracelets",
+      "images": [
+        "/uploads/1759678525761-2x3lcwlndx2.png",
+        "/uploads/1759678531654-tuudmio1y9i.jpeg"
+      ],
+      "videos": [],
+      "featured": true,
+      "isActive": true
+    }
+  ],
+  "workshops": [
+    {
+      "id": "cmgtp7uii0008tzighij6qsyx",
+      "title": "atelier d'Initiation à la Mosaïque Traditionnelle",
+      "description": "Plongez au cœur d'un art ancestral et apprenez les secrets de la mosaïque traditionnelle tunisienne. Guidé par un maître artisan, vous découvrirez comment manipuler les outils, couper les tesselles de marbre et composer votre propre motif. C'est une expérience créative et conviviale, ouverte à tous les niveaux, où vous repartirez fier(e) de votre chef-d'œuvre unique. Tout le matériel est fourni sur place.",
+      "location": "nabeul",
+      "price": 100,
+      "slots": 10,
+      "availableSlots": 10,
+      "isActive": true,
+      "category": "Mosaïque",
+      "images": [
+        "/uploads/1760635979277-ok7vksccqns.jpg"
+      ],
+      "videos": [
+        "/uploads/video-1760636000021-krpvtduh2r.mp4"
+      ],
+      "duration": "1 journée",
+      "hours": "09:10 - 05:10",
+      "schedule": "Lundi à Dimanche"
+    }
+  ],
+  "trainings": [
+    {
+      "id": "cmge6e43z0003tzyg430eu2ma",
+      "title": "Atelier Culinaire : L'Art de la Harissa Traditionnelle",
+      "description": "Découvrez les secrets de la Harissa, le trésor rouge de la gastronomie tunisienne classé au patrimoine de l'UNESCO. Guidé(e) par un expert local, vous apprendrez à préparer ce condiment emblématique selon les méthodes traditionnelles : du tri des piments au pilage au mortier. C'est une expérience culinaire authentique et conviviale, où vous repartirez avec votre propre pot de harissa artisanale, pleine de saveurs et d'histoire.",
+      "duration": "8",
+      "format": "Online",
+      "level": "Advanced",
+      "price": 150,
+      "images": [
+        "/uploads/1759755837906-n47nkd3ycp.jpg"
+      ],
+      "category": "Artisan Skills",
+      "startDate": "2025-10-12T00:00:00.000Z",
+      "endDate": "2025-10-20T00:00:00.000Z",
+      "isActive": true,
+      "videos": [
+        "/uploads/video-1759755452498-qp7msb9ov3.mp4"
+      ]
+    },
+    {
+      "id": "cmge40c250000tzygvup1gjo7",
+      "title": "Atelier d'Initiation à la Mosaïque Traditionnelle",
+      "description": "Plongez au cœur d'un art ancestral et apprenez les secrets de la mosaïque traditionnelle tunisienne. Guidé par un maître artisan, vous découvrirez comment manipuler les outils, couper les tesselles de marbre et composer votre propre motif. C'est une expérience créative et conviviale, ouverte à tous les niveaux, où vous repartirez fier(e) de votre chef-d'œuvre unique. Tout le matériel est fourni sur place.",
+      "duration": "18",
+      "format": "Online",
+      "level": "Beginner",
+      "price": 100,
+      "images": [
+        "/uploads/1759693374515-n6oxg2nfq1b.jpeg",
+        "/uploads/1759693378933-blazzk0w48o.jpeg",
+        "/uploads/1759693385252-zfnpy750el.jpeg"
+      ],
+      "category": "Artisan Skills",
+      "startDate": "2025-10-12T00:00:00.000Z",
+      "endDate": "2025-10-30T00:00:00.000Z",
+      "isActive": true,
+      "videos": []
+    },
+    {
+      "id": "cmge51iwj0001tzyg7v9ujdzk",
+      "title": "Atelier d'Initiation à la Broderie d'Art Tunisienne",
+      "description": "Découvrez l'élégance de la broderie d'art, un trésor de l'artisanat tunisien. Guidé(e) par une artisane passionnée, vous apprendrez les points fondamentaux de la broderie traditionnelle sur un métier à tisser dédié. Point par point, vous verrez un motif somptueux prendre vie sous vos doigts. Cet atelier est une invitation à la patience et à la créativité, ouvert à tous les niveaux. Vous repartirez avec votre propre création brodée, témoin d'un savoir-faire ancestral.",
+      "duration": "13",
+      "format": "Online",
+      "level": "Beginner",
+      "price": 91,
+      "images": [
+        "/uploads/1759695110885-hifd95wjy5a.jpeg",
+        "/uploads/1759695116625-zx7iy8dz3v.jpeg",
+        "/uploads/1759695121519-ekw4sisa2zw.jpeg"
+      ],
+      "category": "Artisan Skills",
+      "startDate": "2025-10-12T00:00:00.000Z",
+      "endDate": "2025-10-25T00:00:00.000Z",
+      "isActive": true,
+      "videos": []
+    },
+    {
+      "id": "cmge56zmt0002tzygp1m3nbqh",
+      "title": "Atelier d'Initiation à la Création de Bijoux en Argent",
+      "description": "Devenez bijoutier le temps d'un atelier et créez votre propre joyau en argent. Guidé(e) par un artisan, vous apprendrez la technique fondamentale de la découpe à la scie de bijoutier pour donner vie à vos idées : un pendentif \"Arbre de vie\", une bague avec vos initiales, ou un motif de votre choix. Transformez une plaque de métal brut en un bijou unique qui vous ressemble. Une expérience créative et manuelle fascinante, ouverte à tous.",
+      "duration": "8",
+      "format": "Online",
+      "level": "Beginner",
+      "price": 200,
+      "images": [
+        "/uploads/1759695372302-yhv1sppupj.jpeg"
+      ],
+      "category": "Artisan Skills",
+      "startDate": "2025-10-12T00:00:00.000Z",
+      "endDate": "2025-10-20T00:00:00.000Z",
+      "isActive": true,
+      "videos": []
+    }
+  ]
+}
