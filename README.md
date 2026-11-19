@@ -60,7 +60,8 @@ npm run dev                # http://localhost:3000
 
 | Variable | Required | Purpose |
 | --- | --- | --- |
-| `DATABASE_URL` | yes | PostgreSQL connection string |
+| `DATABASE_URL` | yes | PostgreSQL connection string (pooled on Neon) |
+| `DATABASE_URL_UNPOOLED` | yes | Direct connection for schema changes (same as `DATABASE_URL` locally) |
 | `NEXTAUTH_URL` | yes | Public URL of the site |
 | `NEXTAUTH_SECRET` | yes | JWT signing secret (`openssl rand -base64 32`) |
 | `ADMIN_EMAIL`, `ADMIN_PASSWORD` | no | Creates or promotes an admin account when seeding (password: 12+ characters) |
@@ -85,7 +86,7 @@ No secrets are committed; see `.env.example`.
 ## Deployment (Vercel)
 
 1. Import the repository in Vercel. The framework is detected as Next.js.
-2. Add a Postgres database from the Vercel Marketplace (Neon). It provides `DATABASE_URL`.
+2. Add a Postgres database from the Vercel Marketplace (Neon) with the prefix `DATABASE`. It provides `DATABASE_URL` and `DATABASE_URL_UNPOOLED`.
 3. Add a Vercel Blob store. It provides `BLOB_READ_WRITE_TOKEN`.
 4. Set `NEXTAUTH_URL` and `NEXTAUTH_SECRET` (and optionally `ADMIN_EMAIL`/`ADMIN_PASSWORD`, SMTP).
 5. Deploy. The `vercel-build` script runs `prisma db push`, seeds the catalogue (idempotent upserts) and builds the app.
